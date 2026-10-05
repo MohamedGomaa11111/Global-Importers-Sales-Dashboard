@@ -4,8 +4,7 @@ An advanced Business Intelligence and financial analytics solution built to solv
 
 ## 🖼️ Dashboard Preview
 
-![Sales Report Preview](dashboard_preview.jpg)
-
+![Sales Report Preview](dashboard_preview.jpg.jpeg)
 ## 💼 Business Problem & Solution
 
 ### 🛑 The Business Challenge:
